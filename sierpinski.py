@@ -1,7 +1,4 @@
 # Lexin Chen
-# 111763005
-# lexchen
-# IAE 101
 # Fall, 2020
 # Project 2 - Sierpinski Triangle
 
