@@ -1,8 +1,5 @@
-# IAE 101
 # Project 04 - Poetry Generator
 # Lexin Chen
-# 111763005
-# lexchen
 # 11/19/20
 # poetry_generator.py (v.4)
 
